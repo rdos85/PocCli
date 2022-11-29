@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "poc-cli": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    }
+  }
+}
